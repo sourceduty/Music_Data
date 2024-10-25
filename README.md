@@ -8,6 +8,9 @@
 Additionally, Music Data can illustrate comparisons across regions or demographics, pinpointing unique preferences or emerging markets. If a user wants to see how hip-hop streams compare in the U.S. versus Europe, Music Data could provide a regional comparison chart to highlight differences and growth rates. Another example could be a timeline chart tracking the top-streamed artists or songs over time, showcasing how new artists break into the scene or how long certain hits stay popular. This GPT is ideal for users needing a clear, data-driven overview of the music landscape, offering key insights in a concise, visually appealing format.
 
 #
+![output](https://github.com/user-attachments/assets/1ea9a84d-36e5-4f29-947c-a859bff8e9e9)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
